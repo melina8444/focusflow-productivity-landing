@@ -1,7 +1,7 @@
-# focusflow-productivity-landing
-Landing page moderna de productividad creada con HTML, CSS y JavaScript.
+# FocusFlow – Página de destino de productividad
 
-🔗 Live Demo  
-https://focusflow-product.netlify.app/
+Página de destino moderna y responsiva creada con HTML, CSS and JavaScript.
 
+## Live Demo
+https://focusflow-productivity.netlify.app
 [https://tuusuario.github.io/focusflow-productivity-landing](https://melina8444.github.io/focusflow-productivity-landing/)
